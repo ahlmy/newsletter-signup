@@ -98,7 +98,7 @@
   content: url("../../assets/illustration-sign-up-desktop.svg");
   width: 100%;
   height: 100%;
-  transition: all 0.2s ease 0s;
+  transition: all 0.3s ease 0s;
   object-fit: contain;
 }
 @media screen and (max-width: 1300px) {
